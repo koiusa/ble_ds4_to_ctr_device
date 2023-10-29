@@ -8,8 +8,8 @@ Send input from the DualShock to the microcomputer.
 
 # 実行環境構築
 
-## Running Dualshock4 on RaspbereyPi
+## Running Dualshock4 on RaspberryPi
 [DualShock4コントローラをRaspBerryPiにBluetoothで接続](https://github.com/koiusa/DeviceWithRaspberryPi/blob/main/dualshock4/setup.md "dualshock4")
 
-## Running Bleutooth on RaspbereyPi
+## Running Bleutooth on RaspberryPi
 [RaspberryPi内でPythonを使用してbluetooth接続する開発環境の構築](https://github.com/koiusa/DeviceWithRaspberryPi/blob/main/bluetooth/setup.md "bluetooth")
